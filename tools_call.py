@@ -1,10 +1,13 @@
 from ast import arguments
 import logging
+from pickle import FALSE
 from pydoc import describe
 from typing import Generator, Optional
 from openai import OpenAI
 import json
-
+from dotenv import load_dotenv
+load_dotenv()
+import os
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -15,7 +18,8 @@ logging.basicConfig(
 )
 logger=logging.getLogger()
 
-client=OpenAI(api_key="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",base_url="https://openrouter.ai/api/v1")
+client=OpenAI(api_key=os.getenv("OPENAI_API_KEY"),base_url=os.getenv("OPENAI_BASE_URL"))
+
 def get_weather(city,date):
     """ 获取城市天气 """
     return f"城市{city}的天气是{date}，可以出海打鱼"
@@ -124,25 +128,50 @@ def execute_tools(tool_call_list):
 def stream_chat(messages,tools=None):
 
     stream=client.chat.completions.create(
-        model="anthropic/claude-sonnet-4.5",
+        model=os.getenv("AI_MODEL"),
         messages=messages,
         tools=tools,
         stream=True,
+        extra_body={
+            "reasoning":{
+                "enabled":True
+            }
+        }
         
         )
     contents=""
+    reasonings=""
     tool_calls_list=[]
     tool_num=0
+    start_reasoning=False
     for chunk in stream:
+        print(chunk)
         choice=chunk.choices[0]
         delta=choice.delta
         
         content=delta.content
 
+        reasoning_details=getattr(delta,"reasoning_details",None)
+        # print(reasoning)
+
+        if reasoning_details:
+            for reasoning in reasoning_details:
+                if not start_reasoning:
+                    print("start thinking\n")
+                    start_reasoning=True
+                if reasoning.get("text",""):
+                    reasonings+=reasoning["text"]
+                    print(reasoning["text"],flush=True,end="")
+            
+                if reasoning.get("signature",""):
+                    print("stop thinking\n")
+                    start_reasoning=False
         # print(delta)
+
         if content:
             contents+=content
             print(content,flush=True,end="")
+        
         if delta.tool_calls:
             for tool_calls in delta.tool_calls:
                 index=tool_calls.index
@@ -170,7 +199,7 @@ def chat(user_message):
     messages=[{"role":"user","content":user_message}]
     while True:
         content,tool_calls_list=stream_chat(messages=messages,tools=tools)
-        print(f"\n\ntool_calls_list:{tool_calls_list}\n\n")
+        # print(f"\n\ntool_calls_list:{tool_calls_list}\n\n")
         assistant={"role":"assistant"}
         if content:
             assistant["content"]=content
@@ -178,7 +207,7 @@ def chat(user_message):
             assistant["tool_calls"]=tool_calls_list
             messages.append(assistant)
             tool_calls=execute_tools(tool_calls_list)
-            print(f"\n\ntool_calls:{tool_calls}\n\n")
+            # print(f"\n\ntool_calls:{tool_calls}\n\n")
             messages.extend(tool_calls)
         else:
             if content:
