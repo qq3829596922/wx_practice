@@ -6,7 +6,7 @@ from typing import Generator, Optional
 from openai import OpenAI
 import json
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=True)
 import os
 logging.basicConfig(
     level=logging.INFO,
@@ -19,6 +19,8 @@ logging.basicConfig(
 logger=logging.getLogger()
 
 client=OpenAI(api_key=os.getenv("OPENAI_API_KEY"),base_url=os.getenv("OPENAI_BASE_URL"))
+logger.info(f"api_key: {os.getenv('OPENAI_API_KEY')}")
+logger.info(f"base_url: {os.getenv('OPENAI_BASE_URL')}")
 
 def get_weather(city,date):
     """ 获取城市天气 """
@@ -144,15 +146,19 @@ def stream_chat(messages,tools=None):
     tool_calls_list=[]
     tool_num=0
     start_reasoning=False
+    chunk_count = 0
     for chunk in stream:
-        print(chunk)
+        chunk_count += 1
+        print(f"[chunk {chunk_count}] {chunk}")
+        if not chunk.choices:
+            continue
         choice=chunk.choices[0]
         delta=choice.delta
         
         content=delta.content
 
         reasoning_details=getattr(delta,"reasoning_details",None)
-        # print(reasoning)
+        # print(reasoning_details)
 
         if reasoning_details:
             for reasoning in reasoning_details:
@@ -190,9 +196,9 @@ def stream_chat(messages,tools=None):
                     tool_calls_list[index]["function"]["arguments"]+=tool_calls.function.arguments
                 # print(tool_calls_list)
             
-        # print(delta)
+    #     print(delta)
     # print(chunk)
-    return content,tool_calls_list
+    return contents,tool_calls_list
 
 import time
 def chat(user_message):
