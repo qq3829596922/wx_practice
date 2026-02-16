@@ -1,0 +1,4496 @@
+{
+  "documents": [
+    {
+      "_id": "69760a8ca6f1991962e267d8",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "WP 65/2",
+      "formula_name": "具有热保护特性的护发素WP 652",
+      "company": "Evonik Operations GmbH",
+      "brand": "",
+      "publish_time": "2022-04-19",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "April 19, 2022"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "护发素通常是驻留型产品，且配方描述中未提及冲洗。",
+        "original_text": ""
+      },
+      "target_area": [
+        "头发"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称明确为'Conditioner'，即护发素，用于头发。",
+        "original_text": ""
+      },
+      "formulation_type": "膏霜乳",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "护发素通常为乳霜状剂型。",
+        "original_text": "Conditioner"
+      },
+      "formulation_type_detail": "乳",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "护发素的常见剂型为乳液或乳霜。",
+        "original_text": ""
+      },
+      "efficacy_summary": "本护发素配方具有强效调理作用，并提供热保护特性，有效减少热造型对头发的损伤。配方易于生产，可一步完成，使头发柔顺易梳理，同时增强头发的健康光泽。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于产品名称'Conditioner with Heat Protecting Properties'和描述'Strong conditioning formula.'生成。",
+        "original_text": "Conditioner with Heat Protecting Properties, Strong conditioning formula."
+      },
+      "efficacy_tags": [
+        "护发",
+        "修护",
+        "滋养"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品为护发素，具有热保护和强效调理功能，因此推断为护发、修护、滋养功效。",
+        "original_text": "Conditioner with Heat Protecting Properties, Strong conditioning formula."
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用。",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "护发素通常为通用产品，不特指某一性别。",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "主体相",
+          "percentage": null,
+          "temperature": "75°C",
+          "ingredients": [
+            {
+              "trade_name": "Water (Aqua)",
+              "percentage": "90.2",
+              "supplier": "various",
+              "supplier_en": "various",
+              "inci_components": [
+                {
+                  "inci_name": "Water (Aqua)",
+                  "inci_ch": "水",
+                  "inci_en": "Water (Aqua)",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Water (Aqua)通常用作溶剂。",
+                    "original_text": "Water (Aqua)"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Glycerin (1,2,3-Propanetriol)",
+              "percentage": "2.0",
+              "supplier": "various",
+              "supplier_en": "various",
+              "inci_components": [
+                {
+                  "inci_name": "Glycerin (1,2,3-Propanetriol)",
+                  "inci_ch": "甘油",
+                  "inci_en": "Glycerin (1,2,3-Propanetriol)",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Glycerin是常见的保湿剂。",
+                    "original_text": "Glycerin (1,2,3-Propanetriol)"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "VARISOFT BT 85 Pellets",
+              "percentage": "2.0",
+              "supplier": "赢创",
+              "supplier_en": "Evonik",
+              "inci_components": [
+                {
+                  "inci_name": "Behentrimonium Chloride",
+                  "inci_ch": "山嵛基三甲基氯化铵",
+                  "inci_en": "Behentrimonium Chloride",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Behentrimonium Chloride是常用的阳离子表面活性剂，主要用作调理剂。",
+                    "original_text": "Behentrimonium Chloride"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "ABIL T Quat 60",
+              "percentage": "0.8",
+              "supplier": "赢创",
+              "supplier_en": "Evonik",
+              "inci_components": [
+                {
+                  "inci_name": "Silicone Quaternium-22",
+                  "inci_ch": "硅酮季铵盐-22",
+                  "inci_en": "Silicone Quaternium-22",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Silicone Quaternium-22是一种硅酮季铵盐，主要用作调理剂。",
+                    "original_text": "Silicone Quaternium-22"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "TEGO ALKANOL 1618 MB",
+              "percentage": "5.0",
+              "supplier": "赢创",
+              "supplier_en": "Evonik",
+              "inci_components": [
+                {
+                  "inci_name": "Cetearyl Alcohol",
+                  "inci_ch": "鲸蜡硬脂醇",
+                  "inci_en": "Cetearyl Alcohol",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Cetearyl Alcohol是常用的乳化剂和增稠剂。",
+                    "original_text": "Cetearyl Alcohol"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "将所有原料加入水中，加热至75°C并充分搅拌混合均匀，注意阳离子原料需缓慢加入避免结块"
+        },
+        {
+          "phase": "Z",
+          "phase_type": "添加相",
+          "percentage": null,
+          "temperature": "低于40°C",
+          "ingredients": [
+            {
+              "trade_name": "Citric Acid",
+              "percentage": "q.s.",
+              "supplier": "various",
+              "supplier_en": "various",
+              "inci_components": [
+                {
+                  "inci_name": "Citric Acid",
+                  "inci_ch": "柠檬酸",
+                  "inci_en": "Citric Acid",
+                  "function": "pH调节剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Citric Acid常用于调节pH值。",
+                    "original_text": "Citric Acid"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Perfume",
+              "percentage": "q.s.",
+              "supplier": "various",
+              "supplier_en": "various",
+              "inci_components": [
+                {
+                  "inci_name": "Perfume",
+                  "inci_ch": "香精",
+                  "inci_en": "Perfume",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Perfume是香精香料。",
+                    "original_text": "Perfume"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Preservative",
+              "percentage": "q.s.",
+              "supplier": "various",
+              "supplier_en": "various",
+              "inci_components": [
+                {
+                  "inci_name": "Preservative",
+                  "inci_ch": "防腐剂",
+                  "inci_en": "Preservative",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "Preservative是防腐剂。",
+                    "original_text": "Preservative"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "冷却至40°C以下后加入香精和防腐剂，避免高温导致香精挥发或防腐剂失效"
+        }
+      ],
+      "process": {
+        "description": "Add all ingredients to water and heat up to 75°C with adequate mixing.\nHomogenize at 75°C.\nCool down while stirring.\nAdd perfume and preservative below 40°C.\nAdjust pH to 4.5-5.5.",
+        "notes": null
+      },
+      "formula_rating": 8.2,
+      "formula_reasoning": "该配方设计合理，采用一步法工艺简化生产流程，降低生产成本。\n主要优点：\n1. 使用阳离子调理剂提供优异的调理效果\n2. 硅油成分提供热保护功能，有效减少热造型损伤\n3. 配方pH值适中(4.5-5.5)，与头发等电点接近，有利于毛鳞片闭合\n4. 工艺简单，一步法完成，适合规模化生产\n扣分项：配方中缺少植物提取物等天然成分卖点。",
+      "core_advantages": "热保护功能，减少热造型损伤；一步法工艺，生产简便；强效调理，柔顺易梳；增强头发光泽",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "69760a8ca6f1991962e267d8"
+    },
+    {
+      "_id": "68ec5585190c5adfd0017662",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "DOWSIL FA 4002 ID Silicone Acrylate Technical Data Sheet",
+      "formula_name": "DOWSIL FA 4002 ID Silicone Acrylate Technical Data Sheet",
+      "company": "The Dow Chemical Company",
+      "brand": "DOWSIL",
+      "publish_time": "2022-07-22",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "2022"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "Based on the product description as a film former on skin and applications in color cosmetics, sun care, and hair care, it is intended to be left on.",
+        "original_text": ""
+      },
+      "target_area": [
+        "面部",
+        "头发"
+      ],
+      "target_area_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "Personal care applications including color cosmetic, sun care and hair care"
+      },
+      "formulation_type": "液体",
+      "formulation_type_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "low viscosity fluid"
+      },
+      "formulation_type_detail": "液",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "Based on 'low viscosity fluid' description.",
+        "original_text": "low viscosity fluid"
+      },
+      "efficacy_summary": "DOWSIL FA 4002 ID Silicone Acrylate是一种成膜剂，能与有机防晒剂、颜料和化妆品成分良好兼容。它在彩妆中作为添加剂，能提供舒适持久的底妆，使口红具有长效、不沾杯和舒适的特性。该产品具有耐洗、耐皮脂和减少皮脂的功效，同时不堵塞毛孔，并能提供有弹性的柔韧定型效果。",
+      "efficacy_summary_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "Film former\nCompatibility with organic sunscreens, pigments and cosmetic ingredients\nAdditive in color cosmetics\nDurable foundation with comfort to wear\nLipstick with long lasting, non-transfer and comfort properties\nWash off resistance\nSebum resistance and reduction\nNon-occlusive\nFlexible hold with bounce"
+      },
+      "efficacy_tags": [
+        "滋养",
+        "修护",
+        "控油"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "Based on 'Film former', 'Durable foundation', 'long lasting, non-transfer', 'Sebum resistance and reduction', 'Non-occlusive', 'Flexible hold with bounce'.",
+        "original_text": ""
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "适用于彩妆、防晒和护发，通常为通用产品。",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "USD",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "Based on the company being Dow Chemical, an American multinational corporation, USD is the most likely currency for technical data sheets.",
+        "original_text": ""
+      },
+      "sun_protection": {
+        "spf": null,
+        "pa": null,
+        "pa_value": null
+      },
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "主体相",
+          "percentage": "100",
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "DOWSIL FA 4002 ID Silicone Acrylate",
+              "percentage": "100",
+              "supplier": "道康宁",
+              "supplier_en": "Dow Chemical Company",
+              "inci_components": [
+                {
+                  "inci_name": "Isododecane",
+                  "inci_ch": "异十二烷",
+                  "inci_en": "Isododecane",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "Isododecane is described as the solvent for the polymer.",
+                    "original_text": "Isododecane"
+                  },
+                  "percentage_in_raw": "60"
+                },
+                {
+                  "inci_name": "Acrylates/Polytrimethylsiloxymethacrylate Copolymer",
+                  "inci_ch": "丙烯酸酯类/聚三甲基硅氧基甲基丙烯酸酯共聚物",
+                  "inci_en": "Acrylates/Polytrimethylsiloxymethacrylate Copolymer",
+                  "function": "成膜剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Film former"
+                  },
+                  "percentage_in_raw": "40"
+                }
+              ]
+            }
+          ],
+          "note": "主体相原料充分混合，保持均匀"
+        }
+      ],
+      "process": {
+        "description": "This is a low viscosity fluid that is easily incorporated into a variety of personal care formulations.\nWhen heat is used, the material should be processed in an enclosed vessel to prevent the isododecane from volatilizing; the vessel should be inerted at temperatures over 40°C (104°F).",
+        "notes": "Isododecane may cause skin irritation upon repeated and prolonged exposures. Proper dilution of this product into consumer personal care end products is recommended."
+      },
+      "formula_rating": 7.8,
+      "formula_reasoning": "舒缓修护成分配比合理；控油配方设计精准，不影响保湿。",
+      "core_advantages": "清爽不黏腻；适用人群广泛；原料天然安全",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec5585190c5adfd0017662"
+    },
+    {
+      "_id": "68ec55167e317ec9dff13836",
+      "category": "普通配方",
+      "language": "中文",
+      "formula_code": "1392-2.04",
+      "formula_name": "日用保湿霜 SPF 30",
+      "company": "GATTEFOSSE",
+      "brand": "",
+      "publish_time": "2023-11-20",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "20231120"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "日用保湿霜通常为驻留型产品",
+        "original_text": "Daily moisturizer"
+      },
+      "target_area": [
+        "面部"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于产品类型“日用保湿霜”推断",
+        "original_text": ""
+      },
+      "formulation_type": "膏霜乳",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品名称为“保湿霜”，且配方中含有乳化剂，推断为膏霜乳剂型",
+        "original_text": "cream"
+      },
+      "formulation_type_detail": "霜",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "产品名称为“保湿霜”，质地分析为霜状",
+        "original_text": "cream"
+      },
+      "efficacy_summary": "本配方是一款理想的轻薄防晒产品，提供SPF 30的防晒保护。其独特的质地轻薄、清爽、不油腻、不发粘，同时具有优良的稳定性。配方中的UV吸收剂对肤感几乎没有影响，确保了舒适的使用体验。作为日用保湿霜，它在防晒的同时也提供保湿功效。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于配方文档中的“理想的轻薄防晒产品”、“防晒产品质地轻薄，清爽，不油腻和不发粘”、“Emulium Mellifera 的配方中UV吸收剂对于肤感几乎没有影响”等描述进行总结。",
+        "original_text": "理想的轻薄防晒产品\nDaily moisturizer SPF 30 [1392-2.04]\n感官分析结果表明Emulium Mellifera 的配方中UV吸收剂对于肤感几乎没有影响。\n使用了我们独特的原料，防晒产品质地轻薄，清爽，不油腻和不发粘。\n4.5% of Emulium Mellifera 与鲸蜡醇磷酸钾共同乳化能确保了优良的稳定性。"
+      },
+      "efficacy_tags": [
+        "防晒",
+        "保湿"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "配方名称中包含“SPF 30”和“保湿霜”，明确指出防晒和保湿功效。",
+        "original_text": "SPF 30, Daily moisturizer"
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "文档中未提及特定目标人群，推断为普通人群。",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "日用保湿霜和防晒产品通常为通用型产品。",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": {
+        "spf": "30",
+        "pa": null,
+        "pa_value": null
+      },
+      "phases": [
+        {
+          "phase": "I",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "EMULIUM MELLIFERA",
+              "percentage": "4.50",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "EMULIUM MELLIFERA",
+                  "inci_ch": null,
+                  "inci_en": null,
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "根据文档中“Emulium Mellifera 与鲸蜡醇磷酸钾共同乳化”推断其为乳化剂。",
+                    "original_text": "EMULIUM MELLIFERA"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "COCO-CAPRYLATE",
+              "percentage": "4.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "COCO-CAPRYLATE",
+                  "inci_ch": "椰油辛酸/癸酸甘油酯",
+                  "inci_en": "Coco-Caprylate",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "常见化妆品成分，通常用作润肤剂。",
+                    "original_text": "COCO-CAPRYLATE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "ISOSTEARATE ISOSTEARYLE",
+              "percentage": "3.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "ISOSTEARATE ISOSTEARYLE",
+                  "inci_ch": "异硬脂酸异硬脂醇酯",
+                  "inci_en": "Isostearyl Isostearate",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "常见化妆品成分，通常用作润肤剂。",
+                    "original_text": "ISOSTEARATE ISOSTEARYLE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "COCOATE BG",
+              "percentage": "1.50",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "COCOATE BG",
+                  "inci_ch": "丁二醇椰油酸酯",
+                  "inci_en": "Butylene Glycol Cocoate",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "常见化妆品成分，可能用作润肤剂或溶剂。",
+                    "original_text": "COCOATE BG"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "BUTYL METHOXYDIBENZOYLMETHANE",
+              "percentage": "3.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "BUTYL METHOXYDIBENZOYLMETHANE",
+                  "inci_ch": "丁基甲氧基二苯甲酰基甲烷",
+                  "inci_en": "Butyl Methoxydibenzoylmethane",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "已知为化学防晒剂。",
+                    "original_text": "BUTYL METHOXYDIBENZOYLMETHANE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "ETHYLHEXYL SALICYLATE",
+              "percentage": "5.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "ETHYLHEXYL SALICYLATE",
+                  "inci_ch": "水杨酸乙基己酯",
+                  "inci_en": "Ethylhexyl Salicylate",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "已知为化学防晒剂。",
+                    "original_text": "ETHYLHEXYL SALICYLATE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "OCTOCRYLENE",
+              "percentage": "5.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "OCTOCRYLENE",
+                  "inci_ch": "奥克立林",
+                  "inci_en": "Octocrylene",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "已知为化学防晒剂。",
+                    "original_text": "OCTOCRYLENE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "HOMOSALATE",
+              "percentage": "5.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "HOMOSALATE",
+                  "inci_ch": "胡莫柳酯",
+                  "inci_en": "Homosalate",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "已知为化学防晒剂。",
+                    "original_text": "HOMOSALATE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "PRESERVATIVE",
+              "percentage": "qs",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PRESERVATIVE",
+                  "inci_ch": "防腐剂",
+                  "inci_en": "Preservative",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "PRESERVATIVE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        },
+        {
+          "phase": "II",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "WATER",
+              "percentage": "qsp100",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "WATER",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "WATER"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "DISODIUM EDTA",
+              "percentage": "0.10",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "DISODIUM EDTA",
+                  "inci_ch": "EDTA二钠",
+                  "inci_en": "Disodium EDTA",
+                  "function": "螯合剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "EDTA二钠是常见的螯合剂。",
+                    "original_text": "DISODIUM EDTA"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "MICROCRYSTALLINE CELLULOSE (and) CELLULOSE GUM",
+              "percentage": "1.50",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "MICROCRYSTALLINE CELLULOSE",
+                  "inci_ch": "微晶纤维素",
+                  "inci_en": "Microcrystalline Cellulose",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "微晶纤维素和纤维素胶常用于增稠和稳定。",
+                    "original_text": "MICROCRYSTALLINE CELLULOSE"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "CELLULOSE GUM",
+                  "inci_ch": "纤维素胶",
+                  "inci_en": "Cellulose Gum",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "微晶纤维素和纤维素胶常用于增稠和稳定。",
+                    "original_text": "CELLULOSE GUM"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "XANTHAN GUM",
+              "percentage": "0.30",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "XANTHAN GUM",
+                  "inci_ch": "黄原胶",
+                  "inci_en": "Xanthan Gum",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "黄原胶是常见的增稠剂。",
+                    "original_text": "XANTHAN GUM"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "GLYCERIN",
+              "percentage": "3.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "GLYCERIN",
+                  "inci_ch": "甘油",
+                  "inci_en": "Glycerin",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "甘油是常见的保湿剂。",
+                    "original_text": "GLYCERIN"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "POTASSIUM CETYL PHOSPHATE",
+              "percentage": "0.30",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "POTASSIUM CETYL PHOSPHATE",
+                  "inci_ch": "鲸蜡醇磷酸钾",
+                  "inci_en": "Potassium Cetyl Phosphate",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "文档中提及“与鲸蜡醇磷酸钾共同乳化”，表明其为乳化剂。",
+                    "original_text": "POTASSIUM CETYL PHOSPHATE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "III",
+          "phase_type": "活性物相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "WATER",
+              "percentage": "6.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "WATER",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "WATER"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
+              "percentage": "3.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
+                  "inci_ch": "苯基苯并咪唑磺酸",
+                  "inci_en": "Phenylbenzimidazole Sulfonic Acid",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "已知为化学防晒剂。",
+                    "original_text": "PHENYLBENZIMIDAZOLE SULFONIC ACID"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SODIUM HYDROXIDE",
+              "percentage": "qs pH > 7.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "SODIUM HYDROXIDE",
+                  "inci_ch": "氢氧化钠",
+                  "inci_en": "Sodium Hydroxide",
+                  "function": "pH调节剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "1.0",
+                    "reasoning": "用于调节pH值至大于7.0。",
+                    "original_text": "SODIUM HYDROXIDE"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "RED 4",
+              "percentage": "qs",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "RED 4",
+                  "inci_ch": "CI 14700",
+                  "inci_en": "CI 14700",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "RED 4是常见的着色剂。",
+                    "original_text": "RED 4"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "YELLOW 5",
+              "percentage": "qs",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "YELLOW 5",
+                  "inci_ch": "CI 19140",
+                  "inci_en": "CI 19140",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "YELLOW 5是常见的着色剂。",
+                    "original_text": "YELLOW 5"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "DIMETHICONE (and) DIMETHICONOL",
+              "percentage": "1.50",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "DIMETHICONE",
+                  "inci_ch": "聚二甲基硅氧烷",
+                  "inci_en": "Dimethicone",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "聚二甲基硅氧烷和聚二甲基硅氧烷醇常用于提供柔滑肤感。",
+                    "original_text": "DIMETHICONE"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "DIMETHICONOL",
+                  "inci_ch": "聚二甲基硅氧烷醇",
+                  "inci_en": "Dimethiconol",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "聚二甲基硅氧烷和聚二甲基硅氧烷醇常用于提供柔滑肤感。",
+                    "original_text": "DIMETHICONOL"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "PERFUME",
+              "percentage": "qs",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PERFUME",
+                  "inci_ch": "香精",
+                  "inci_en": "Perfume",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "PERFUME"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "按照标准工艺操作III相原料"
+        }
+      ],
+      "process": {
+        "description": null,
+        "notes": null
+      },
+      "formula_rating": 8.5,
+      "formula_reasoning": "防晒体系设计合理，防护效果全面；保湿成分搭配得当，持久滋润。",
+      "core_advantages": "质地细腻易吸收；原料天然安全；使用感舒适",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec55167e317ec9dff13836"
+    },
+    {
+      "_id": "68ec5583190c5adfd001626f",
+      "category": "普通配方",
+      "language": "中文",
+      "formula_code": "100706",
+      "formula_name": "精华眼膜霜（兰蔻仿样） 100706",
+      "company": "",
+      "brand": "兰蔻",
+      "publish_time": "2024-04-10",
+      "publish_time_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "从文件名中提取日期信息",
+        "original_text": "20240410004357"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "眼膜霜通常为驻留型产品",
+        "original_text": ""
+      },
+      "target_area": [
+        "眼部"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称为眼膜霜，明确指出使用部位为眼部",
+        "original_text": ""
+      },
+      "formulation_type": "膏霜乳",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称为眼膜霜，属于膏霜乳剂型",
+        "original_text": ""
+      },
+      "formulation_type_detail": "霜",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品名称为眼膜霜，细分为霜",
+        "original_text": ""
+      },
+      "efficacy_summary": "本精华眼膜霜配方旨在提供眼部肌肤所需的滋养与修护，帮助改善眼周细纹、干燥等问题，使眼部肌肤看起来更年轻、更有活力。质地轻盈，易于吸收，为眼部带来舒适体验。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "基于产品类型“精华眼膜霜”推断其主要功效",
+        "original_text": ""
+      },
+      "efficacy_tags": [
+        "滋养",
+        "修护",
+        "保湿"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "眼膜霜产品通常具有滋养、修护和保湿功效",
+        "original_text": ""
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "配方中未提及特殊人群，推断为普通人群",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.7",
+        "reasoning": "眼膜霜产品通常为通用型",
+        "original_text": ""
+      },
+      "cost_per_kg": "66",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "DC 345",
+              "percentage": "5",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "环五聚二甲基硅氧烷",
+                  "inci_ch": "环五聚二甲基硅氧烷",
+                  "inci_en": "Cyclopentasiloxane",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "硅油类成分常作为溶剂或润肤剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "E+520",
+              "percentage": "2.5",
+              "supplier": "ABC NANOTECH",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "聚二甲基硅氧烷/乙烯基聚二甲基硅氧烷交联聚合物",
+                  "inci_ch": "聚二甲基硅氧烷/乙烯基聚二甲基硅氧烷交联聚合物",
+                  "inci_en": "Dimethicone/Vinyl Dimethicone Crosspolymer",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "交联聚合物常用于增稠和提供柔滑肤感",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "TDS",
+              "percentage": "2",
+              "supplier": "LIPO",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "二氧化钛",
+                  "inci_ch": "二氧化钛",
+                  "inci_en": "Titanium Dioxide",
+                  "function": "遮光剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "TDS通常指二氧化钛分散体，作为遮光剂或防晒剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "EMT 10",
+              "percentage": "1.5",
+              "supplier": "SEPPIC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "丙烯酸羟乙酯/丙烯酰二甲基牛磺酸钠共聚物",
+                  "inci_ch": "丙烯酸羟乙酯/丙烯酰二甲基牛磺酸钠共聚物",
+                  "inci_en": "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "聚合物类成分常作为增稠剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "PS-4",
+              "percentage": "1",
+              "supplier": "LIPO",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "聚二甲基硅氧烷",
+                  "inci_ch": "聚二甲基硅氧烷",
+                  "inci_en": "Dimethicone",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "硅油类成分常作为润肤剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "云母",
+              "percentage": "2",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "云母",
+                  "inci_ch": "云母",
+                  "inci_en": "Mica",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "云母常用于提供光泽或作为填充剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "OAP PVA",
+              "percentage": "1",
+              "supplier": "LIPO",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "聚乙烯醇",
+                  "inci_ch": "聚乙烯醇",
+                  "inci_en": "Polyvinyl Alcohol",
+                  "function": "成膜剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "PVA通常指聚乙烯醇，作为成膜剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        },
+        {
+          "phase": "B",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "去离子水",
+              "percentage": "TO 100",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "去离子水主要成分为水",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "EG-1",
+              "percentage": "3",
+              "supplier": "LIPO",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "甘油",
+                  "inci_ch": "甘油",
+                  "inci_en": "Glycerin",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "EG-1通常指甘油，作为保湿剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "丙二醇",
+              "percentage": "5",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "丙二醇",
+                  "inci_ch": "丙二醇",
+                  "inci_en": "Propylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "丙二醇是常见的保湿剂和溶剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "EDTA-2NA",
+              "percentage": "0.1",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "EDTA二钠",
+                  "inci_ch": "EDTA二钠",
+                  "inci_en": "Disodium EDTA",
+                  "function": "螯合剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "EDTA-2NA是常见的螯合剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "C",
+          "phase_type": "添加相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "PE9010",
+              "percentage": "0.8",
+              "supplier": "S&M",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "苯氧乙醇",
+                  "inci_ch": "苯氧乙醇",
+                  "inci_en": "Phenoxyethanol",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "PE9010是常见的防腐剂复配体系",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "90.0"
+                },
+                {
+                  "inci_name": "乙基己基甘油",
+                  "inci_ch": "乙基己基甘油",
+                  "inci_en": "Ethylhexylglycerin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "PE9010是常见的防腐剂复配体系",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "10.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "香精 86308842",
+              "percentage": "0.1",
+              "supplier": "DROM",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "香精",
+                  "inci_ch": "香精",
+                  "inci_en": "Fragrance",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "明确标注为香精",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "调色",
+              "percentage": "适量",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "着色剂",
+                  "inci_ch": "着色剂",
+                  "inci_en": "Colorant",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "调色通常指添加着色剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "C相为后添加成分，注意添加时机"
+        }
+      ],
+      "process": {
+        "description": "1. 取两个烧杯分别称好 A, B 两相，加热 A 相使其全部溶解，将 B 加入 A 均质 2-3 分钟；\n2. 搅拌均匀后分别加入 C 直至搅拌均匀。",
+        "notes": null
+      },
+      "formula_rating": 8.2,
+      "formula_reasoning": "保湿成分搭配得当，持久滋润；舒缓修护成分配比合理。",
+      "core_advantages": "质地细腻易吸收；工艺简单可控；使用感舒适",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec5583190c5adfd001626f"
+    },
+    {
+      "_id": "68ec5583190c5adfd0015ed0",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "SC-AC220517",
+      "formula_name": "极致保湿修复泛红面膜（水洗型）SC-AC220517_20230815124438",
+      "company": "Spec-Chem Group",
+      "brand": "",
+      "publish_time": "2023-08-15",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "20230815"
+      },
+      "usage_method": "淋洗",
+      "usage_method_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "wash-off type"
+      },
+      "target_area": [
+        "面部"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于产品类型为面膜推断",
+        "original_text": ""
+      },
+      "formulation_type": "膏霜乳",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于配方结构和外观描述为cream判断",
+        "original_text": "cream"
+      },
+      "formulation_type_detail": "霜",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "质地分析为霜状",
+        "original_text": "cream"
+      },
+      "efficacy_summary": "本产品采用20% SpecPed GHK-Cu (1.0%)和SpecPure PPN60，温和去除皮肤老旧角质，减少刺激，使皮肤更光滑、更年轻。具有极致保湿和修复泛红的功效。",
+      "efficacy_summary_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "This product uses 20% SpecPed® GHK-Cu (1.0%) and SpecPure® PPN60 to gently peel off the old cuticles of the skin, reduce irritation and make the skin smoother and younger."
+      },
+      "efficacy_tags": [
+        "保湿",
+        "修护",
+        "去角质"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于产品描述中的“极致保湿修复泛红”和“温和去除老旧角质”判断",
+        "original_text": ""
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.7",
+        "reasoning": "面膜产品通常为通用",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": "80℃",
+          "ingredients": [
+            {
+              "trade_name": "SpecSufc SC-M68",
+              "percentage": "2.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Cetearyl Glucoside",
+                  "inci_ch": "鲸蜡硬脂基葡糖苷",
+                  "inci_en": "Cetearyl Glucoside",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emulsifier"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Cetearyl Alcohol",
+                  "inci_ch": "鲸蜡硬脂醇",
+                  "inci_en": "Cetearyl Alcohol",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emulsifier"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Water",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Cetearyl Alcohol",
+              "percentage": "3.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Cetearyl Alcohol",
+                  "inci_ch": "鲸蜡硬脂醇",
+                  "inci_en": "Cetearyl Alcohol",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emulsifier"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Glyceryl Stearate",
+              "percentage": "3.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Glyceryl Stearate",
+                  "inci_ch": "甘油硬脂酸酯",
+                  "inci_en": "Glyceryl Stearate",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emulsifier"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecKare BTS Oils",
+              "percentage": "2.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Camellia Sinensis Seed Oil",
+                  "inci_ch": "茶籽油",
+                  "inci_en": "Camellia Sinensis Seed Oil",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emollient"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecKare SQA",
+              "percentage": "5.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Squalane",
+                  "inci_ch": "角鲨烷",
+                  "inci_en": "Squalane",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emollient"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Dicaprylyl Carbonate",
+              "percentage": "3.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Dicaprylyl Carbonate",
+                  "inci_ch": "碳酸二辛酯",
+                  "inci_en": "Dicaprylyl Carbonate",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Emollient"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        },
+        {
+          "phase": "B",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": "80°C",
+          "ingredients": [
+            {
+              "trade_name": "SpecThem XTG200",
+              "percentage": "0.2",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Xanthan Gum",
+                  "inci_ch": "黄原胶",
+                  "inci_en": "Xanthan Gum",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Stabilizer"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecThem SCB21",
+              "percentage": "0.5",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+                  "inci_ch": "丙烯酸（酯）类/C10-30 烷醇丙烯酸酯交联聚合物",
+                  "inci_en": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Stabilizer"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Aqua",
+                  "inci_ch": "水",
+                  "inci_en": "Aqua",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Butylene Glycol",
+              "percentage": "6.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Butylene Glycol",
+                  "inci_ch": "丁二醇",
+                  "inci_en": "Butylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Moisturizer"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Glycerin",
+              "percentage": "3.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Glycerin",
+                  "inci_ch": "甘油",
+                  "inci_en": "Glycerin",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Moisturizer"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Water",
+              "percentage": "To 100",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Water",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecKare PGA",
+              "percentage": "0.05",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Sodium Polyglutamate",
+                  "inci_ch": "聚谷氨酸钠",
+                  "inci_en": "Sodium Polyglutamate",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecPure Aqua GBE",
+              "percentage": "3.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Ginkgo Biloba Leaf Extract",
+                  "inci_ch": "银杏叶提取物",
+                  "inci_en": "Ginkgo Biloba Leaf Extract",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecKare HAL",
+              "percentage": "5.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Sodium Hyaluronate",
+                  "inci_ch": "透明质酸钠",
+                  "inci_en": "Sodium Hyaluronate",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Moisturizer"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Aqua",
+                  "inci_ch": "水",
+                  "inci_en": "Aqua",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Sodium Hydroxymethylglycinate",
+                  "inci_ch": "羟甲基甘氨酸钠",
+                  "inci_en": "Sodium Hydroxymethylglycinate",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Propylene Glycol",
+                  "inci_ch": "丙二醇",
+                  "inci_en": "Propylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecKare NK2",
+              "percentage": "0.1",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Dipotassium Glycyrrhizate",
+                  "inci_ch": "甘草酸二钾",
+                  "inci_en": "Dipotassium Glycyrrhizate",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "C",
+          "phase_type": "活性物相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "SpecPure PC1",
+              "percentage": "5.0",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Poria Cocos Sclerotium Extract",
+                  "inci_ch": "茯苓菌核提取物",
+                  "inci_en": "Poria Cocos Sclerotium Extract",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Propylene Glycol",
+                  "inci_ch": "丙二醇",
+                  "inci_en": "Propylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据INCI名称推断",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecPure PPN60",
+              "percentage": "1.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "SpecPure PPN60",
+                  "inci_ch": null,
+                  "inci_en": null,
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SpecPed GHK-Cu（1.0%）",
+              "percentage": "20.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "SpecPed GHK-Cu（1.0%）",
+                  "inci_ch": null,
+                  "inci_en": null,
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Conditioning Agent"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "C相为后添加成分，注意添加时机"
+        },
+        {
+          "phase": "D",
+          "phase_type": "防腐相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "ParbFree PE91",
+              "percentage": "0.4",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Phenoxyethanol",
+                  "inci_ch": "苯氧乙醇",
+                  "inci_en": "Phenoxyethanol",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Preservative"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Ethylhexylglycerin",
+                  "inci_ch": "乙基己基甘油",
+                  "inci_en": "Ethylhexylglycerin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Preservative"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "PrzvFree 4HAP",
+              "percentage": "0.5",
+              "supplier": "SC",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Hydroxyacetophenone",
+                  "inci_ch": "羟基苯乙酮",
+                  "inci_en": "Hydroxyacetophenone",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Preservative"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            }
+          ],
+          "note": "D相原料最后添加，轻柔搅拌"
+        }
+      ],
+      "process": {
+        "description": "1. Mix all the ingredients in Part A and heat to 80℃\n2. Mix the Butylene Glycol and SpecThem XTG200 in Part B and stir well\n3. Add the remaining ingredients of SpecThem SCB21 in Part B to step two. After stirring evenly, sprinkle SpecThem SCB21 evenly on the liquid level, heat it to 80°C, and keep it warm for later use.\n4. Mix PrzvFree 4HAP and water (partial), heat to 80°C, and keep it insulated for later use.\n5. Add step 1 to step 3 and homogenize until the system is homogeneous\n6. Stir and cool down below 45°C, add Part C, step 4 and ParbFree PE91 to step five, and stir until the system is uniform.",
+        "notes": null
+      },
+      "formula_rating": 7.7,
+      "formula_reasoning": "保湿成分搭配得当，持久滋润；舒缓修护成分配比合理。",
+      "core_advantages": "质地细腻易吸收；使用感舒适；适用人群广泛",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec5583190c5adfd0015ed0"
+    },
+    {
+      "_id": "68d914b550aaaa8478e974af",
+      "category": "普通配方",
+      "language": "中文",
+      "formula_code": "500-VOMONO1-00001S",
+      "formula_name": "PolluFree 洗发水",
+      "company": "",
+      "brand": "",
+      "publish_time": "2023-06-07",
+      "publish_time_meta": {
+        "source": "ai_inferred",
+        "confidence": "1.0",
+        "reasoning": "从文件名中提取日期信息",
+        "original_text": "20230607"
+      },
+      "usage_method": "淋洗",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "根据配方名称“洗发水”推断为淋洗产品",
+        "original_text": ""
+      },
+      "target_area": [
+        "头发"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "根据配方名称“洗发水”推断使用部位为头发",
+        "original_text": ""
+      },
+      "formulation_type": "液体",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "洗发水通常为液体剂型",
+        "original_text": ""
+      },
+      "formulation_type_detail": "液",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "洗发水通常为液体剂型",
+        "original_text": ""
+      },
+      "efficacy_summary": "PolluFree洗发水是一款温和低刺激的氨基酸洗发水，能产生丰富的泡沫，有效清洁秀发。配方中添加菊苣根调理剂，赋予头发柔软的冲洗感和服帖柔滑的干后体验。莫诺依A.O.精油的加入，对头发具有修复作用，同时显著提高头发的光泽。这款洗发水绿色环保，不含聚季铵盐，不会对水体造成污染，易于冲洗，有助于节约用水。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "基于配方描述、市场故事和关键原料信息综合生成",
+        "original_text": "· 温和低刺激氨基酸表活，丰富的泡沫\n· 菊苣根调理剂赋予头发柔软的冲洗感，服帖柔滑的干后体验感\n· 莫诺依A.O.的加入对头发有修复作用，同时提高头发的光泽\n绿色环保氨基酸洗发水，不含聚季铵盐，不会对水体造成污染，同时易冲洗，也可节约用水。"
+      },
+      "efficacy_tags": [
+        "清洁",
+        "滋养",
+        "修护",
+        "护发"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据配方名称“洗发水”以及配方描述中的“温和低刺激氨基酸表活，丰富的泡沫”、“菊苣根调理剂赋予头发柔软的冲洗感，服帖柔滑的干后体验感”、“莫诺依A.O.的加入对头发有修复作用，同时提高头发的光泽”推断",
+        "original_text": ""
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "市场故事提及“80,90后越来越关注秀发问题”，未明确特殊人群，推断为普通人群",
+        "original_text": "80,90后越来越关注秀发问题"
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "洗发水通常为通用产品，市场故事未明确性别",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A1",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "去离子水",
+              "percentage": "52.62",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "水在配方中通常作为溶剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "透明汉生胶",
+              "percentage": "1.20",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "黄原胶",
+                  "inci_ch": "黄原胶",
+                  "inci_en": "Xanthan Gum",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "黄原胶常用于增稠",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "A2",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "OLI-4202 月桂酰肌氨酸钠",
+              "percentage": "20.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "水在配方中通常作为溶剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "月桂酰肌氨酸钠",
+                  "inci_ch": "月桂酰肌氨酸钠",
+                  "inci_en": "Sodium Lauroyl Sarcosinate",
+                  "function": "表面活性剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "月桂酰肌氨酸钠是常见的表面活性剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "月桂酸钠",
+                  "inci_ch": "月桂酸钠",
+                  "inci_en": "Sodium Laurate",
+                  "function": "表面活性剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "月桂酸钠是常见的表面活性剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "氯化钠",
+                  "inci_ch": "氯化钠",
+                  "inci_en": "Sodium Chloride",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "氯化钠在洗发水中常作为增稠剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "苯氧乙醇",
+                  "inci_ch": "苯氧乙醇",
+                  "inci_en": "Phenoxyethanol",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "苯氧乙醇是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "羟苯甲酯",
+                  "inci_ch": "羟苯甲酯",
+                  "inci_en": "Methylparaben",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "羟苯甲酯是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "甲基氯异噻唑啉酮",
+                  "inci_ch": "甲基氯异噻唑啉酮",
+                  "inci_en": "Methylchloroisothiazolinone",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "甲基氯异噻唑啉酮是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "甲基异噻唑啉酮",
+                  "inci_ch": "甲基异噻唑啉酮",
+                  "inci_en": "Methylisothiazolinone",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "甲基异噻唑啉酮是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "羟苯乙酯",
+                  "inci_ch": "羟苯乙酯",
+                  "inci_en": "Ethylparaben",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "羟苯乙酯是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "EDTA-Na2",
+              "percentage": "0.05",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "EDTA 二钠",
+                  "inci_ch": "EDTA 二钠",
+                  "inci_en": "Disodium EDTA",
+                  "function": "螯合剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "EDTA二钠是常见的螯合剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Genagen CAB-LF",
+              "percentage": "20.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "水在配方中通常作为溶剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "椰油酰胺丙基甜菜碱",
+                  "inci_ch": "椰油酰胺丙基甜菜碱",
+                  "inci_en": "Cocamidopropyl Betaine",
+                  "function": "表面活性剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "椰油酰胺丙基甜菜碱是常见的表面活性剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "氯化钠",
+                  "inci_ch": "氯化钠",
+                  "inci_en": "Sodium Chloride",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "氯化钠在洗发水中常作为增稠剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "苯甲酸钠",
+                  "inci_ch": "苯甲酸钠",
+                  "inci_en": "Sodium Benzoate",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "苯甲酸钠是常见的防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "A3",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "菊苣根调理剂（仙婷）",
+              "percentage": "2.00",
+              "supplier": "仙婷",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "菊粉",
+                  "inci_ch": "菊粉",
+                  "inci_en": "Inulin",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "配方描述中明确指出为调理剂",
+                    "original_text": "菊苣根调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "生物多糖胶粉末（素莱碧雅）",
+              "percentage": "0.05",
+              "supplier": "素莱碧雅",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "麦芽糊精",
+                  "inci_ch": "麦芽糊精",
+                  "inci_en": "Maltodextrin",
+                  "function": "功能助剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "麦芽糊精常作为赋形剂或载体",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "生物糖 胶-1",
+                  "inci_ch": "生物糖 胶-1",
+                  "inci_en": "Biosaccharide Gum-1",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "关键原料描述中指出为舒缓肌肤及美发的多功能的多聚糖活性物-赋形剂，修复毛鳞片",
+                    "original_text": "生物多糖胶（生物糖 胶-1），是一种舒缓肌肤及美发的多功能的多聚糖活性物-赋形剂，修复毛鳞片。"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "B1",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "莫诺依 A.O. （仙婷）",
+              "percentage": "0.30",
+              "supplier": "仙婷",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "椰子（COCOS NUCIFERA）油",
+                  "inci_ch": "椰子（COCOS NUCIFERA）油",
+                  "inci_en": "Cocos Nucifera (Coconut) Oil",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "椰子油是常见的润肤剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "塔希提栀子（GARDENIA TAHITENSIS）花",
+                  "inci_ch": "塔希提栀子（GARDENIA TAHITENSIS）花",
+                  "inci_en": "Gardenia Tahitensis Flower",
+                  "function": "植物提取物",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "明确为花提取物",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "生育酚（维生素E）",
+                  "inci_ch": "生育酚（维生素E）",
+                  "inci_en": "Tocopherol (Vitamin E)",
+                  "function": "抗氧化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "维生素E是常见的抗氧化剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Cosmacol NII9",
+              "percentage": "2.10",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "C12-13 链烷醇聚醚-9",
+                  "inci_ch": "C12-13 链烷醇聚醚-9",
+                  "inci_en": "C12-13 Pareth-9",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "链烷醇聚醚类成分常作为乳化剂或表面活性剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        },
+        {
+          "phase": "B2",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Cosmacol NII9",
+              "percentage": "0.12",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "C12-13 链烷醇聚醚-9",
+                  "inci_ch": "C12-13 链烷醇聚醚-9",
+                  "inci_en": "C12-13 Pareth-9",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "链烷醇聚醚类成分常作为乳化剂或表面活性剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "香精",
+              "percentage": "0.06",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "（日用）香精",
+                  "inci_ch": "（日用）香精",
+                  "inci_en": "Fragrance",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "明确指出为香精",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        },
+        {
+          "phase": "B3",
+          "phase_type": "油相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "DMDMH防腐剂",
+              "percentage": "0.20",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "DMDM 乙内酰脲",
+                  "inci_ch": "DMDM 乙内酰脲",
+                  "inci_en": "DMDM Hydantoin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "明确指出为防腐剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "聚酯-11",
+              "percentage": "1.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "聚酯-11",
+                  "inci_ch": "聚酯-11",
+                  "inci_en": "Polyester-11",
+                  "function": "成膜剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "聚酯类成分常作为成膜剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "油相原料需预先混合均匀，加热至完全溶解"
+        }
+      ],
+      "process": {
+        "description": "1. 把A1相中的盈透增稠剂加入水中，加热搅拌直至体系完全透明;\n2. 加入A2相和A3相（其中A3相的生物多糖胶粉末已预溶好为10%），搅拌直至体系完全均一；\n3. 加入预溶好的B1和B2，搅拌均匀，加入B3相，搅拌均匀即可。",
+        "notes": null
+      },
+      "formula_rating": 9.3,
+      "formula_reasoning": "清洁力与温和性平衡良好；舒缓修护成分配比合理。",
+      "core_advantages": "清爽不黏腻；成本效益高；配方稳定性好",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68d914b550aaaa8478e974af"
+    },
+    {
+      "_id": "68d914b450aaaa8478e960fb",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "AS40064",
+      "formula_name": "头发红色染霜AS40064_20230528112354",
+      "company": "SEPPIC",
+      "brand": "BnH AUDACIOUS CREATION",
+      "publish_time": "2023-05-28",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "20230528"
+      },
+      "usage_method": "淋洗",
+      "usage_method_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "An easy water rinse makes this audacious break disappear as a magic wand."
+      },
+      "target_area": [
+        "头发",
+        "躯干部位"
+      ],
+      "target_area_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "Hair and Body"
+      },
+      "formulation_type": "膏霜乳",
+      "formulation_type_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "Cream Gel"
+      },
+      "formulation_type_detail": "霜",
+      "formulation_type_detail_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "Cream"
+      },
+      "efficacy_summary": "这款创意染发霜具有多功能性，可用于头发和身体，为头发带来红色效果，或在身体上形成短暂的纹身。SEPIMAX ZEN是理想的聚合物，可悬浮、稳定和分散珠光，并与10%乙醇具有良好的兼容性。EMOSMART V21是关键成分，可提供独特的轻盈不粘腻触感，同时使乳霜焕发光泽并易于涂抹，无需使用硅酮。BIOEXTENDER SPE富含矿物质，为头发提供硫氨基酸，使发丝更强韧，抵抗日常侵害，保持柔顺。SEPICAP MP作为热活性多重保护剂，可对抗氧化应激的有害影响，保护发干和发根的完整性，并抚平毛鳞片。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据产品描述和关键成分的功效进行总结。",
+        "original_text": "This creative colouring cream is multifunctional. The BnH, Body and Hair cream, makes your Hair and Body fun with red hair and/or an ephemeral tattoo on body! An easy water rinse makes this audacious break disappear as a magic wand. SEPIMAX™ ZEN is the perfect polymer to suspend, stabilize and disperse mother-of-pearl. It has a good compatibility with 10% ethanol. EMOSMART™ V21 is the key ingredient to produce a distinctive light and non-sticky touch while making the cream glow and giving easy spreading without using silicone. BIOEXTENDER™ SPE: Red algae extract, rich in minerals, which brings sulfur amino acid to hair. The hair fiber is stronger and resists to daily agressions for a supple hair. SEPICAP™ MP: Thermo active multiprotector for stressed and sun-damaged hair, blow-drying, pollution or chemical treatments, biovector of amino acids and panthenol, SEPICAP™ MP contributes to combat the harmful effects of oxidative stress. It simultaneously protects the integrity of the hair shaft and root as well as it smoothes scales."
+      },
+      "efficacy_tags": [
+        "染发",
+        "滋养",
+        "修护"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据产品名称“红色染霜”和功效描述中的“red hair”、“stronger”和“protects the integrity of the hair shaft”推断。",
+        "original_text": "red hair, stronger, protects the integrity of the hair shaft"
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用。",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.7",
+        "reasoning": "染发和身体彩绘产品通常为通用。",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "水相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Water",
+              "percentage": "Up to 100%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Water",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "Water通常用作溶剂。",
+                    "original_text": "Water"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SEPIMAX ZEN",
+              "percentage": "2.00%",
+              "supplier": "SEPPIC",
+              "supplier_en": "SEPPIC",
+              "inci_components": [
+                {
+                  "inci_name": "Polyacrylate Crosspolymer-6",
+                  "inci_ch": "聚丙烯酸酯交联聚合物-6",
+                  "inci_en": "Polyacrylate Crosspolymer-6",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Powder polymer with a MAXIMUM resistance to electrolytes thanks to its high associative behavior. Stable from pH 2 to 8, it enables the creation of formulas with a specific skin feeling: rich, velvety and elegant. It is now possible to formulate transparent aqueous gels, cream-gels and emulsions with any kind of active ingredients and to achieve ZEN."
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "B",
+          "phase_type": "醇相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Alcohol",
+              "percentage": "10.00%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Alcohol",
+                  "inci_ch": "乙醇",
+                  "inci_en": "Alcohol",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "Alcohol通常用作溶剂。",
+                    "original_text": "Alcohol"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Triethanolamine",
+              "percentage": "0.07%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Triethanolamine",
+                  "inci_ch": "三乙醇胺",
+                  "inci_en": "Triethanolamine",
+                  "function": "pH调节剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "三乙醇胺常用于调节pH值。",
+                    "original_text": "Triethanolamine"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Octylacrylamide and Acrylates and Butylaminoethyl Methacrylate Copolymer",
+              "percentage": "0.25%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Octylacrylamide and Acrylates and Butylaminoethyl Methacrylate Copolymer",
+                  "inci_ch": "辛基丙烯酰胺/丙烯酸酯/丁基氨乙基甲基丙烯酸酯共聚物",
+                  "inci_en": "Octylacrylamide and Acrylates and Butylaminoethyl Methacrylate Copolymer",
+                  "function": "成膜剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "此类共聚物常用于化妆品中作为成膜剂。",
+                    "original_text": "Octylacrylamide and Acrylates and Butylaminoethyl Methacrylate Copolymer"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "B相原料单独预处理，确保分散性"
+        },
+        {
+          "phase": "C",
+          "phase_type": "着色相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Synthetic Fluorphlogopite and Iron Oxide",
+              "percentage": "8.00%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Synthetic Fluorphlogopite",
+                  "inci_ch": "合成氟金云母",
+                  "inci_en": "Synthetic Fluorphlogopite",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "合成氟金云母常用于提供珠光和着色效果。",
+                    "original_text": "Synthetic Fluorphlogopite"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Iron Oxide",
+                  "inci_ch": "氧化铁",
+                  "inci_en": "Iron Oxide",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "氧化铁是常见的着色剂。",
+                    "original_text": "Iron Oxide"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Mica and Titanium Dioxide and Iron Oxides",
+              "percentage": "2.00%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Mica",
+                  "inci_ch": "云母",
+                  "inci_en": "Mica",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "云母常用于提供珠光和着色效果。",
+                    "original_text": "Mica"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Titanium Dioxide",
+                  "inci_ch": "二氧化钛",
+                  "inci_en": "Titanium Dioxide",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "二氧化钛是常见的着色剂和遮光剂。",
+                    "original_text": "Titanium Dioxide"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Iron Oxides",
+                  "inci_ch": "氧化铁类",
+                  "inci_en": "Iron Oxides",
+                  "function": "着色剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "氧化铁是常见的着色剂。",
+                    "original_text": "Iron Oxides"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            }
+          ],
+          "note": "C相为后添加成分，注意添加时机"
+        },
+        {
+          "phase": "D",
+          "phase_type": "活性物相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "EMOSMART V21",
+              "percentage": "2.00%",
+              "supplier": "SEPPIC",
+              "supplier_en": "SEPPIC",
+              "inci_components": [
+                {
+                  "inci_name": "C18-21 Alkane",
+                  "inci_ch": "C18-21 烷烃",
+                  "inci_en": "C18-21 Alkane",
+                  "function": "润肤剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "EMOSMART™ V21 is a high-purity, non polar and biodegradable emollient. It shows an excellent compatibility with all types of oils. It allows to obtain fresh textures with a soft finish and matt veil. Inert and stable, it can be used in all types of applications, even in extreme conditions (pH , oxidizing/reducing media…)."
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "BIOEXTENDER SPE",
+              "percentage": "2.50%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Hydrolyzed Rhodophycea Extract",
+                  "inci_ch": "水解红藻提取物",
+                  "inci_en": "Hydrolyzed Rhodophycea Extract",
+                  "function": "活性成分",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "Red algae extract, rich in minerals, which brings sulfur amino acid to hair. The hair fiber is stronger and resists to daily agressions for a supple hair."
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "SEPICAP MP",
+              "percentage": "3.00%",
+              "supplier": "SEPPIC",
+              "supplier_en": "SEPPIC",
+              "inci_components": [
+                {
+                  "inci_name": "Sodium Cocoyl Amino Acids",
+                  "inci_ch": "椰油酰胺基酸钠",
+                  "inci_en": "Sodium Cocoyl Amino Acids",
+                  "function": "表面活性剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "椰油酰胺基酸钠是一种表面活性剂。",
+                    "original_text": "Sodium Cocoyl Amino Acids"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Potassium Dimethicone PEG-7 Panthenyl Phosphate",
+                  "inci_ch": "聚二甲基硅氧烷 PEG-7 泛醇磷酸钾",
+                  "inci_en": "Potassium Dimethicone PEG-7 Panthenyl Phosphate",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "该成分含有泛醇和硅酮，常用于调理。",
+                    "original_text": "Potassium Dimethicone PEG-7 Panthenyl Phosphate"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "D-Panthenol",
+              "percentage": "0.50%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "D-Panthenol",
+                  "inci_ch": "D-泛醇",
+                  "inci_en": "D-Panthenol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "D-泛醇是常见的保湿剂和护发剂。",
+                    "original_text": "D-Panthenol"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Phenoxyethanol and Ethylhexylglycerin",
+              "percentage": "0.70%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Phenoxyethanol",
+                  "inci_ch": "苯氧乙醇",
+                  "inci_en": "Phenoxyethanol",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "苯氧乙醇是常见的防腐剂。",
+                    "original_text": "Phenoxyethanol"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Ethylhexylglycerin",
+                  "inci_ch": "乙基己基甘油",
+                  "inci_en": "Ethylhexylglycerin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "乙基己基甘油是常见的防腐剂。",
+                    "original_text": "Ethylhexylglycerin"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Caprylyl Glycol and Ethylhexylglycerin",
+              "percentage": "0.30%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Caprylyl Glycol",
+                  "inci_ch": "辛甘醇",
+                  "inci_en": "Caprylyl Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "辛甘醇是常见的保湿剂和皮肤调理剂。",
+                    "original_text": "Caprylyl Glycol"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "Ethylhexylglycerin",
+                  "inci_ch": "乙基己基甘油",
+                  "inci_en": "Ethylhexylglycerin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "乙基己基甘油是常见的防腐剂。",
+                    "original_text": "Ethylhexylglycerin"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "Fragrance",
+              "percentage": "0.10%",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Fragrance",
+                  "inci_ch": "香精",
+                  "inci_en": "Fragrance",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "Fragrance即香精。",
+                    "original_text": "Fragrance"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "D相原料最后添加，轻柔搅拌"
+        }
+      ],
+      "process": {
+        "description": "Add water into main kettle, then add Sepimax ZEN, homogenize it for 4 mins at 4000rpm, then stir it until it uniformly. Mix phase B in a side beaker until clear, then add phase C into it, mix it well. Then add phase B&C into main kettle, mix it uniformly. Add phase D, mix it uniformly.",
+        "notes": null
+      },
+      "formula_rating": 8.7,
+      "formula_reasoning": "舒缓修护成分配比合理；原料选择优质，成本控制合理；配方兼容性好，适合多种肤质。",
+      "core_advantages": "质地细腻易吸收；成本效益高；原料天然安全",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68d914b450aaaa8478e960fb"
+    },
+    {
+      "_id": "68ec55147e317ec9dff127fe",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "2899-31C",
+      "formula_name": "超强定型定发喷雾2899-31C",
+      "company": "Nouryon",
+      "brand": "Nouryon Personal Care",
+      "publish_time": "2023-08-20",
+      "publish_time_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "从文件名中提取日期信息",
+        "original_text": "20230820"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "发胶产品通常是驻留型",
+        "original_text": "Hair Spray"
+      },
+      "target_area": [
+        "头发"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称明确指出是发胶",
+        "original_text": "Hair Spray"
+      },
+      "formulation_type": "气雾剂",
+      "formulation_type_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "Description中明确提到aerosol hair spray",
+        "original_text": "aerosol hair spray"
+      },
+      "formulation_type_detail": "喷雾",
+      "formulation_type_detail_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "Description中明确提到hair spray",
+        "original_text": "hair spray"
+      },
+      "efficacy_summary": "这款超强定型气雾发胶采用AMPHOMER EDGE聚合物配制，可在高湿度环境下提供无与伦比的持久定型效果。与高含量DME推进剂的兼容性使其能够提供细腻、轻盈的喷雾，实现卓越的头发定型和持久保持。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据产品描述和成分推断",
+        "original_text": "This ultimate hold fixing aerosol hair spray is formulated with AMPHOMER EDGE polymer for unparalled long-lasting hold in high humidity environments. Its compatibility with high levels of DME propellant provides a fine, lightweight spray."
+      },
+      "efficacy_tags": [
+        "护发",
+        "定型"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称和描述明确指出是定型发胶",
+        "original_text": "Ultra Hold Fixing Hair Spray"
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.7",
+        "reasoning": "发胶产品通常为通用型",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "USD",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "公司联系方式中包含美国信息，且配方为英文，推断为美元",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "主体相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Ethanol Anhydrous 40-B",
+              "percentage": "41.96%",
+              "supplier": "Pharmco-Aaper",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "SD Alcohol 40-B (Alcohol Denatured)",
+                  "inci_ch": "变性乙醇",
+                  "inci_en": "SD Alcohol 40-B (Alcohol Denatured)",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "乙醇常作为溶剂使用",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "AMPHOMER EDGE polymer",
+              "percentage": "4.00%",
+              "supplier": "Nouryon",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer",
+                  "inci_ch": "辛基丙烯酰胺/丙烯酸酯类/丁氨基乙基甲基丙烯酸酯共聚物",
+                  "inci_en": "Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer",
+                  "function": "定型剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "产品描述中提到该聚合物用于定型",
+                    "original_text": "AMPHOMER EDGE polymer for unparalled long-lasting hold"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "AMP-Ultra PC 1000",
+              "percentage": "0.89%",
+              "supplier": "Angus Chemical",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Aminomethyl Propanol",
+                  "inci_ch": "氨甲基丙醇",
+                  "inci_en": "Aminomethyl Propanol",
+                  "function": "pH调节剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "氨甲基丙醇常作为pH调节剂使用",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Deionized Water",
+              "percentage": "10.00%",
+              "supplier": "Local",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Water (Aqua)",
+                  "inci_ch": "水",
+                  "inci_en": "Water (Aqua)",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "水是常见的溶剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Neo Heliopan AV",
+              "percentage": "0.03%",
+              "supplier": "Symrise",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Ethylhexyl Methoxycinnamate",
+                  "inci_ch": "甲氧基肉桂酸乙基己酯",
+                  "inci_en": "Ethylhexyl Methoxycinnamate",
+                  "function": "防晒剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "甲氧基肉桂酸乙基己酯是常见的紫外线吸收剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Belsil PF 200",
+              "percentage": "0.10%",
+              "supplier": "Wacker",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PEG/PPG-20/20 Phenylisopropyl Caprylyl Dimethicone",
+                  "inci_ch": "PEG/PPG-20/20 苯基异丙基辛基聚二甲基硅氧烷",
+                  "inci_en": "PEG/PPG-20/20 Phenylisopropyl Caprylyl Dimethicone",
+                  "function": "调理剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "硅油衍生物常作为调理剂使用",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Ritapan DL",
+              "percentage": "0.02%",
+              "supplier": "Rita Corporation",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Panthenol",
+                  "inci_ch": "泛醇",
+                  "inci_en": "Panthenol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "泛醇是常见的保湿剂和护发剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "主体相原料充分混合，保持均匀"
+        },
+        {
+          "phase": "B",
+          "phase_type": "推进剂相",
+          "percentage": null,
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "DEMEON D",
+              "percentage": "43.00%",
+              "supplier": "Nouryon",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Dimethyl Ether",
+                  "inci_ch": "二甲醚",
+                  "inci_en": "Dimethyl Ether",
+                  "function": "推进剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.95",
+                    "reasoning": "产品描述中提到DME propellant",
+                    "original_text": "DME propellant"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "B相原料单独预处理，确保分散性"
+        }
+      ],
+      "process": {
+        "description": "To prepare Phase A, weigh all of the ethanol into an appropriate sized mixing vessel. Using an overhead mixer with a propeller blade, mix at 500 rpm and pull a vortex 3/4 of the way down the shaft. Slowly sift in the AMPHOMER EDGE polymer into the vortex. Once completely dispersed, weigh in the AMP-Ultra PC 1000 and allow to mix until solution is complete. Then add the remaining ingredients, one at a time, mixing thoroughly after each addition.\nTo prepare Phase B, filter concentrate, fill cans, and charge with propellant.",
+        "notes": null
+      },
+      "formula_rating": 7.6,
+      "formula_reasoning": "原料选择优质，成本控制合理；使用感清爽舒适，肤感优异。",
+      "core_advantages": "成本效益高；配方稳定性好；使用感舒适",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec55147e317ec9dff127fe"
+    },
+    {
+      "_id": "68ec5584190c5adfd0016615",
+      "category": "普通配方",
+      "language": "中文",
+      "formula_code": "SC-AC2206002",
+      "formula_name": "铜脑舒缓修护喷雾SC-AC2206002",
+      "company": "南京斯拜科生物科技股份有限公司",
+      "brand": "PEPTIDE + MEISTER",
+      "publish_time": "2023-08-15",
+      "publish_time_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "20230815"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "喷雾类产品通常为驻留型",
+        "original_text": ""
+      },
+      "target_area": [
+        "面部"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "舒缓修护喷雾通常用于面部",
+        "original_text": ""
+      },
+      "formulation_type": "喷雾剂",
+      "formulation_type_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "喷雾"
+      },
+      "formulation_type_detail": "喷雾",
+      "formulation_type_detail_meta": {
+        "source": "original",
+        "confidence": "1.0",
+        "reasoning": "",
+        "original_text": "喷雾"
+      },
+      "efficacy_summary": "本产品为铜肽舒缓修护喷雾，具有强效急救和精准呵护的功效。能够有效舒缓皮肤刺激，提供即时修护，使肌肤焕亮弹润，宛若新生。配方中含有多种皮肤调理剂和保湿剂，旨在改善肌肤状态，提供全面的舒缓和修护。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据产品名称和宣传语提炼",
+        "original_text": "强效急救 • 精准呵护 舒缓刺激 即时修护 焕亮弹润 宛若新生"
+      },
+      "efficacy_tags": [
+        "舒缓",
+        "修护",
+        "保湿"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "根据产品名称和成分功能推断",
+        "original_text": ""
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.8",
+        "reasoning": "舒缓修护类产品通常为通用型",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "CNY",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于中文配方推断为人民币",
+        "original_text": ""
+      },
+      "sun_protection": {
+        "spf": null,
+        "pa": null,
+        "pa_value": null
+      },
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "主体相",
+          "percentage": null,
+          "temperature": "(80±5) ℃",
+          "ingredients": [
+            {
+              "trade_name": "水",
+              "percentage": "至 100",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "溶剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "斯肤特 ALLA",
+              "percentage": "0.1",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "尿囊素",
+                  "inci_ch": "尿囊素",
+                  "inci_en": "Allantoin",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "丁二醇",
+              "percentage": "5.0",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "丁二醇",
+                  "inci_ch": "丁二醇",
+                  "inci_en": "Butylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "保湿剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "主体相原料充分混合，保持均匀"
+        },
+        {
+          "phase": "B",
+          "phase_type": "主体相",
+          "percentage": null,
+          "temperature": "(70±5) ℃",
+          "ingredients": [
+            {
+              "trade_name": "派柏福瑞 PE91",
+              "percentage": "0.3",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "苯氧乙醇",
+                  "inci_ch": "苯氧乙醇",
+                  "inci_en": "Phenoxyethanol",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "防腐剂"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "乙基己基甘油",
+                  "inci_ch": "乙基己基甘油",
+                  "inci_en": "Ethylhexylglycerin",
+                  "function": "防腐剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "防腐剂"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "普瑞芙 4HAP",
+              "percentage": "0.5",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "对羟基苯乙酮",
+                  "inci_ch": "对羟基苯乙酮",
+                  "inci_en": "4'-Hydroxyacetophenone",
+                  "function": "抗氧化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "抗氧化剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "主体相原料充分混合，保持均匀"
+        },
+        {
+          "phase": "C",
+          "phase_type": "主体相",
+          "percentage": null,
+          "temperature": "(40±5) ℃",
+          "ingredients": [
+            {
+              "trade_name": "斯肤特 NK2",
+              "percentage": "0.1",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "甘草酸二钾",
+                  "inci_ch": "甘草酸二钾",
+                  "inci_en": "Dipotassium Glycyrrhizate",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "斯肤肽 GCu11p",
+              "percentage": "0.1",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "三肽-1 铜",
+                  "inci_ch": "三肽-1 铜",
+                  "inci_en": "Copper Tripeptide-1",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "斯肤肽 AT2P",
+              "percentage": "0.001",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "乙酰基四肽-2",
+                  "inci_ch": "乙酰基四肽-2",
+                  "inci_en": "Acetyl Tetrapeptide-2",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "sh-五肽-1",
+              "percentage": "0.001",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "sh-五肽-1",
+                  "inci_ch": "sh-五肽-1",
+                  "inci_en": "sh-Pentapeptide-1",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "斯肤特 HA",
+              "percentage": "0.05",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "透明质酸钠",
+                  "inci_ch": "透明质酸钠",
+                  "inci_en": "Sodium Hyaluronate",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "保湿剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "斯肤白 VB3",
+              "percentage": "1.0",
+              "supplier": "斯拜科",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "烟酰胺",
+                  "inci_ch": "烟酰胺",
+                  "inci_en": "Niacinamide",
+                  "function": "皮肤调理剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "皮肤调理剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Solubilisant LRI",
+              "percentage": "0.02",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PEG-40 氢化蓖麻油",
+                  "inci_ch": "PEG-40 氢化蓖麻油",
+                  "inci_en": "PEG-40 Hydrogenated Castor Oil",
+                  "function": "增溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "增溶剂"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "PPG-26-丁醇聚醚-26",
+                  "inci_ch": "PPG-26-丁醇聚醚-26",
+                  "inci_en": "PPG-26-Buteth-26",
+                  "function": "增溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "增溶剂"
+                  },
+                  "percentage_in_raw": null
+                },
+                {
+                  "inci_name": "水",
+                  "inci_ch": "水",
+                  "inci_en": "Water",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "增溶剂"
+                  },
+                  "percentage_in_raw": null
+                }
+              ]
+            },
+            {
+              "trade_name": "(日用)香精",
+              "percentage": "0.005",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "香精",
+                  "inci_ch": "香精",
+                  "inci_en": "Fragrance",
+                  "function": "芳香剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": "芳香剂"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "主体相原料充分混合，保持均匀"
+        }
+      ],
+      "process": {
+        "description": "1. 混合Part A中各原料, 加热至 (80±5) ℃, 保温30分钟至料体均一, 备用。\n2. 降温至 (70±5) ℃ 加入Part B混合至料体均一, 其中PrzyFree® 4HAP (热水预溶解), 搅拌直至完全溶解。\n3. 降温至 (40±5) ℃ 加入 Part 中各原料 (香精用LRI 预先增溶透明)。\n4. 搅拌均一至室温出料。",
+        "notes": null
+      },
+      "formula_rating": 8.8,
+      "formula_reasoning": "保湿成分搭配得当，持久滋润；舒缓修护成分配比合理。",
+      "core_advantages": "成本效益高；配方稳定性好；原料天然安全",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec5584190c5adfd0016615"
+    },
+    {
+      "_id": "68ec5583190c5adfd0015cf3",
+      "category": "普通配方",
+      "language": "英文",
+      "formula_code": "P0007CH",
+      "formula_name": "滋养面膜P0007CH",
+      "company": "Cargill",
+      "brand": "",
+      "publish_time": "2023-08-15",
+      "publish_time_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "从文件名中提取日期信息",
+        "original_text": "20230815"
+      },
+      "usage_method": "驻留",
+      "usage_method_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "面膜通常是驻留产品",
+        "original_text": "NOURISHING FACIAL MASK"
+      },
+      "target_area": [
+        "面部"
+      ],
+      "target_area_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "产品名称明确指出是面部面膜",
+        "original_text": "FACIAL MASK"
+      },
+      "formulation_type": "贴、膜、含基材",
+      "formulation_type_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品名称为面膜，且描述为sheet mask",
+        "original_text": "FACIAL MASK"
+      },
+      "formulation_type_detail": "膜",
+      "formulation_type_detail_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品名称为面膜",
+        "original_text": "FACIAL MASK"
+      },
+      "efficacy_summary": "这款滋养面膜含有0.5%的Actigum CS11 QD I，一种通过生物发酵获得的硬葡聚糖增稠剂。它能为面膜精华液提供1000-1500 mPa.s的适宜粘度，确保面膜能很好地贴合面部，并带来极佳的感官体验。配方pH值在5.6-6.0之间，质地为朦胧水凝胶，通过了常温和45°C下2个月的稳定性测试。",
+      "efficacy_summary_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.85",
+        "reasoning": "基于产品描述和特性信息生成",
+        "original_text": "Our nourishing face sheet mask has been created with 0.5% of Actigum CS11 QD I, a scleroglucan texturizer, that is obtained through biofermentation. Actigum CS11 QD I is responsible the right viscosity for the serum of the facial sheet mask, of 1000 – 1500 mPa.s. It ensures that the facial sheet mask nicely sticks to the face and leaves a great sensorial feeling. pH: 5.6-6.0 Viscosity: 1000 - 1500 mPa.s Appearance: Haze hydrogel Stability: passed 2 months stability at RT & T45°C"
+      },
+      "efficacy_tags": [
+        "滋养",
+        "保湿"
+      ],
+      "efficacy_tags_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "产品名称为滋养面膜，且含有保湿成分",
+        "original_text": "NOURISHING FACIAL MASK"
+      },
+      "target_audience": [
+        "普通人群"
+      ],
+      "target_audience_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.95",
+        "reasoning": "未标注特殊人群，推断为普通人群使用",
+        "original_text": ""
+      },
+      "gender": "通用",
+      "gender_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.7",
+        "reasoning": "面膜产品通常为通用性别",
+        "original_text": ""
+      },
+      "cost_per_kg": "",
+      "currency": "USD",
+      "currency_meta": {
+        "source": "ai_inferred",
+        "confidence": "0.9",
+        "reasoning": "基于英文配方推断为美元",
+        "original_text": ""
+      },
+      "sun_protection": "",
+      "phases": [
+        {
+          "phase": "A",
+          "phase_type": "水相",
+          "percentage": "90.89",
+          "temperature": "60°C",
+          "ingredients": [
+            {
+              "trade_name": "Demineralized water",
+              "percentage": "79.89",
+              "supplier": "Cargill",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Aqua",
+                  "inci_ch": "水",
+                  "inci_en": "Aqua",
+                  "function": "溶剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Actigum CS 11 QD I",
+              "percentage": "0.50",
+              "supplier": "Cargill",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Sclerotium Gum",
+                  "inci_ch": "菌核胶",
+                  "inci_en": "Sclerotium Gum",
+                  "function": "增稠剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.9",
+                    "reasoning": "根据产品描述，该成分为增稠剂",
+                    "original_text": "scleroglucan texturizer"
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Symsave H",
+              "percentage": "0.50",
+              "supplier": "Symrise",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Hydroxyacetophenone",
+                  "inci_ch": "羟基苯乙酮",
+                  "inci_en": "Hydroxyacetophenone",
+                  "function": "抗氧化剂",
+                  "function_meta": {
+                    "source": "ai_inferred",
+                    "confidence": "0.8",
+                    "reasoning": "羟基苯乙酮常作为抗氧化剂和防腐助剂",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "1.3-BG",
+              "percentage": "9.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Butylene Glycol",
+                  "inci_ch": "丁二醇",
+                  "inci_en": "Butylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Glycerin",
+              "percentage": "5.00",
+              "supplier": "Cargill",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Glycerin",
+                  "inci_ch": "甘油",
+                  "inci_en": "Glycerin",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "水相原料按顺序添加，充分搅拌溶解"
+        },
+        {
+          "phase": "B",
+          "phase_type": "活性物相",
+          "percentage": "4.25",
+          "temperature": "45°C",
+          "ingredients": [
+            {
+              "trade_name": "Dipotassium glycyrrhizate",
+              "percentage": "0.05",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Dipotassium glycyrrhizate",
+                  "inci_ch": "甘草酸二钾",
+                  "inci_en": "Dipotassium glycyrrhizate",
+                  "function": "舒缓剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Allantoin",
+              "percentage": "0.20",
+              "supplier": "Ashland",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Allantoin",
+                  "inci_ch": "尿囊素",
+                  "inci_en": "Allantoin",
+                  "function": "舒缓剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Hydrolite 6 O",
+              "percentage": "0.50",
+              "supplier": "Symrise",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "1,2-Hexanediol",
+                  "inci_ch": "1,2-己二醇",
+                  "inci_en": "1,2-Hexanediol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Zerose Erythritol B STD Gran",
+              "percentage": "2.00",
+              "supplier": "Cargill",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Erythritol",
+                  "inci_ch": "赤藓糖醇",
+                  "inci_en": "Erythritol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "EDTA2Na (5% sol)",
+              "percentage": "1.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Disodium EDTA",
+                  "inci_ch": "EDTA二钠",
+                  "inci_en": "Disodium EDTA",
+                  "function": "螯合剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "B相原料单独预处理，确保分散性"
+        },
+        {
+          "phase": "C",
+          "phase_type": "油相/香精相",
+          "percentage": "1.35",
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "1.3-BG",
+              "percentage": "1.00",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Butylene Glycol",
+                  "inci_ch": "丁二醇",
+                  "inci_en": "Butylene Glycol",
+                  "function": "保湿剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Eumulgin CO 40",
+              "percentage": "0.30",
+              "supplier": "BASF",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "PEG-40 Hydrogenated castor oil",
+                  "inci_ch": "PEG-40 氢化蓖麻油",
+                  "inci_en": "PEG-40 Hydrogenated castor oil",
+                  "function": "乳化剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            },
+            {
+              "trade_name": "Pink blossoms 841613",
+              "percentage": "0.05",
+              "supplier": "Symrise",
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Fragrance",
+                  "inci_ch": "香精",
+                  "inci_en": "Fragrance",
+                  "function": "香精香料",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "C相为后添加成分，注意添加时机"
+        },
+        {
+          "phase": "D",
+          "phase_type": "pH调节相",
+          "percentage": "0.01",
+          "temperature": null,
+          "ingredients": [
+            {
+              "trade_name": "Sodium hydroxide (10% sol)",
+              "percentage": "0.01",
+              "supplier": null,
+              "supplier_en": null,
+              "inci_components": [
+                {
+                  "inci_name": "Sodium hydroxide",
+                  "inci_ch": "氢氧化钠",
+                  "inci_en": "Sodium hydroxide",
+                  "function": "pH调节剂",
+                  "function_meta": {
+                    "source": "original",
+                    "confidence": "1.0",
+                    "reasoning": "",
+                    "original_text": ""
+                  },
+                  "percentage_in_raw": "100.0"
+                }
+              ]
+            }
+          ],
+          "note": "D相原料最后添加，轻柔搅拌"
+        }
+      ],
+      "process": {
+        "description": "1. Add water into tank, add Actigum CS11QDI with stirring 300rpm, for one minute, then homogenize at 9000rpm for 10minutes.\n2. Start to heat to 60°C.\n3. Add the rest of phase A one by one, until uniform.\n4. Stop heat and start cool process, when temperature reach 45°C, add phase B one by one, stirring at 500rpm until uniform.\n5. Prepare phase C, mix together in clear liquid, add into tank with stirring at 500 rpm, until uniform.\n6. Adjust the pH with Sodium hydroxide (10%) manually.",
+        "notes": null
+      },
+      "formula_rating": 8.0,
+      "formula_reasoning": "保湿成分搭配得当，持久滋润；配方兼容性好，适合多种肤质；使用感清爽舒适，肤感优异。",
+      "core_advantages": "适用人群广泛；配方稳定性好；使用感舒适",
+      "check_status": "pending",
+      "favorite_count": 0,
+      "like_count": 0,
+      "formula_hash": "",
+      "_score": 1.0,
+      "id": "68ec5583190c5adfd0015cf3"
+    }
+  ],
+  "query": "保湿",
+  "count": 10,
+  "total": 11,
+  "search_params": {
+    "from": 0,
+    "top_k": 10,
+    "formulation_type_detail": null,
+    "target_area": null,
+    "spf_min": null,
+    "spf_max": null,
+    "pa_value_min": null,
+    "pa_value_max": null,
+    "inci_ch": null,
+    "formula_name": null,
+    "company": null,
+    "gender": null,
+    "usage_method": null,
+    "efficacy_tags": null,
+    "target_audience": null,
+    "cost_per_kg_min": null,
+    "cost_per_kg_max": null,
+    "currency": null,
+    "ingredient_functions": null,
+    "origin_text": null
+  },
+  "source": "mongodb",
+  "pagination_tip": "当前浏览范围：第 1 - 10 条 / 共 11 条。\n还有更多结果，如需下一批可设置 from=10。\n暂无更多原料结果时显示：当前 from=0，暂无更多结果。\n\n请在每条回答的末尾告知用户目前是第几条到第几条，共多少条，如果需要查看更多请告诉我查看下一批。\n当查看下一批的时候，一定要注意重点，搜索参数必须保持一致，\n工具的返回并不会被保存聊天记录中，所以你应该把本次搜索的条件添加在搜索结尾\n但不要用原本的搜索名字，转换为适当的中文\n",
+  "detail_tip": "以下字段默认展示为\"详情略\"：。如需完整详情请告诉我。\n请将这些字段一并展示但是内容为详情略,不要在回答末尾说有什么隐藏字段",
+  "image_tip": null,
+  "tool_description": "这是你调用工具时需要知道的信息：\n\n"
+}

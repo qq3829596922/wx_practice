@@ -27,15 +27,16 @@ stream = client.chat.completions.create(
 
 print("\n=== 原始 chunk 输出 ===\n")
 for i, chunk in enumerate(stream):
-    print(f"[{i}] {chunk}")
-    print(f"    type: {type(chunk)}")
+    # print(f"[{i}] {chunk}")
+    # print(f"    type: {type(chunk)}")
     if chunk.choices:
         delta = chunk.choices[0].delta
-        print(f"    delta attrs: {dir(delta)}")
-        print(f"    delta.__dict__: {getattr(delta, '__dict__', 'N/A')}")
+        # print(f"    delta attrs: {dir(delta)}")
+        # print(f"    delta.__dict__: {getattr(delta, '__dict__', 'N/A')}")
         # 尝试不同的 reasoning 字段名
-        for attr in ['reasoning', 'reasoning_content', 'reasoning_details', 'thinking']:
-            val = getattr(delta, attr, None)
-            if val is not None:
-                print(f"    >>> Found {attr}: {val}")
+        # for attr in ['reasoning', 'reasoning_content', 'reasoning_details', 'thinking']:
+        #     val = getattr(delta, attr, None)
+        #     if val is not None:
+        #         print(f"    >>> Found {attr}: {val}")
+        print(delta)
     print()

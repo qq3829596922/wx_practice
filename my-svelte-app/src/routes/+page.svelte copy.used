@@ -1,0 +1,178 @@
+<script lang="ts">
+    import { error } from "@sveltejs/kit";
+    import {toast} from 'svelte-sonner'
+    import Button from '$lib/components/Button.svelte'; 
+    import Counter from '$lib/components/Counter.svelte'                                                                                          
+    // let name = 'SvelteKit';                                                                                        
+    // let count = 0;                                                                                                 
+                                                                                                                   
+    // function handleClick() {                                                                                       
+    //   count++;                                                                                                     
+    // }                  
+    let smsSending=0;
+    let smsCountdown=0;
+    let access=0;      
+    let test_string="aaaaa"
+    const sendSMSCodeHandler=async ()=>{
+        
+         
+            const res=await fetch(
+            "http://localhost:8122/sms",
+            {
+                method:"POST",
+                body:JSON.stringify({access:access
+
+                }),
+                headers:{
+                    "Content-Type":"application/json"
+                }
+            }
+         ).then(async(res)=>{
+            if(!res.ok)
+                throw await res.json()
+            
+            console.log(await res.json())
+         }).catch((err)=>{
+            // console.error(err)
+            toast.error(err.detail||String(err))
+         });
+
+
+        access++;
+        // if(!res.ok)
+        //     throw await res.json()
+        // console.log(await res.json())
+        //  catch(err){
+        //     console.error(err)
+        //  }
+
+        let test={test_string:"bbbbb"}
+        // console.log(res.ok)
+        // console.log(await res.json())
+         
+        // smsSending=1;
+    }    
+    const test=()=>{
+        let arr=[1,2,3]
+        arr.forEach(
+            item=>{
+                console.log(item)
+            }
+        )
+    }           
+    function test2(){
+        console.log("hi");
+        change2++;
+        change++;
+    }         
+    let change=0;  
+    let change2=0;    
+    let _change=change
+    // ((name)=>{console.log(name)})("nihao")
+    $: (()=>{if(change2%2==0)console.log(_change)})();           
+    let tokens=["a","b","c"]   
+    let items=[
+        {id:0,name:"aaa"},
+        {id:1,name:"bbb"},
+        {id:2,name:"ccc"}
+    ]   
+    const add_tokens=()=>{
+        change++;
+        if(change%2==0){
+            tokens.push("ccc")
+            tokens.unshift("zzzz")
+            tokens.unshift("zzzz")
+            tokens.splice(1,0,"12345")
+            tokens.splice(2,1,"54321")
+            console.log(tokens)
+            tokens=tokens
+        }
+        else{
+            tokens.unshift("kkkk")
+            tokens=tokens
+        }
+
+   } ; 
+   let test_list=["a","b","c","d","e"];
+   const remove=()=>{
+
+    
+   }       
+   const remove_list=()=>{
+    // console.log(test_list)
+    // // test_list=test_list.slice(1)
+    // // console.log(test_list.shift())
+    // test_list=test_list.slice(0,2)
+    // console.log(test_list)
+
+    items.shift()
+    items=items
+
+   }        
+   let id =0      
+   const add_id=()=>{
+        id++
+        console.log(id)
+   }             
+   
+  </script>                                                                                                        
+                                                                                                                   
+  <!-- <h1>你好 {name}!</h1>                                                                                            
+                                                                                                                   
+  <p>你点击了 {count} 次</p>                                                                                       
+                                                                                                                   
+  <button on:click={handleClick}>                                                                                  
+    点我                                                                                                           
+  </button>        
+
+  -->
+  <!-- <Button text="提交" type="danger" />                                                                    
+  <Button text="取消" />                                                                                  
+  <Button /> -->
+
+  <button on:click={()=>{add_tokens()}}>
+    test
+ </button>
+
+ <button on:click={add_id}>
+    test2
+
+ </button>
+  <!-- <button 
+    type="button" 
+    class="px-3 py-1 text-sm rounded-lg bg-gray-700/10 hover:bg-gray-700/20 dark:bg-gray-100/10 dark:hover:bg-gray-100/20 disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
+    disabled={smsSending}
+    on:click={test2}
+  >
+  dsa
+        {#if smsSending}
+            发送中
+        {/if}
+  </button> -->
+
+  <!-- {#each items as item (item.id)} -->
+    <!-- {item.name} {i}
+    {
+        console.log(i)
+    } -->
+    <!-- <div>
+        {item.name}:<input />
+    </div>
+  {/each}
+     -->
+{#key id}
+<!-- <Button text=id onclick={add_id}></Button> -->
+ <Counter></Counter>
+{/key}
+
+
+  <style>                                                                                                          
+    h1 {                                                                                                           
+      color: purple;                                                                                               
+    }                                                                                                              
+    button {                                                                                                       
+      padding: 10px 20px;                                                                                          
+      font-size: 18px;                                                                                             
+      cursor: pointer;                                                                                             
+    }                                                                                                              
+  </style>                

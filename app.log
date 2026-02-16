@@ -20,3 +20,89 @@
 2026-01-21 03:59:55,775 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 403 Forbidden"
 2026-01-21 04:00:33,314 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
 2026-01-21 04:04:52,769 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:20:41,356 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:20:41,356 - INFO - Retrying request to /chat/completions in 0.490179 seconds
+2026-01-29 04:20:42,499 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:20:42,499 - INFO - Retrying request to /chat/completions in 0.885215 seconds
+2026-01-29 04:20:44,037 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:22:03,626 - INFO - HTTP Request: POST https://openrouter.ai//v1/chat/completions "HTTP/1.1 308 Permanent Redirect"
+2026-01-29 04:22:04,032 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:22:04,033 - INFO - ==================================================
+2026-01-29 04:22:04,033 - INFO - 开始接收 chunks...
+2026-01-29 04:22:04,033 - INFO - ==================================================
+2026-01-29 04:22:12,302 - INFO - HTTP Request: POST https://openrouter.ai//v1/chat/completions "HTTP/1.1 308 Permanent Redirect"
+2026-01-29 04:22:13,059 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:26:12,581 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:26:28,491 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:27:52,563 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:28:01,187 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:28:25,877 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:28:27,935 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:30:15,684 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:31:03,820 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:31:11,472 - INFO - HTTP Request: POST https://openrouter.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:32:07,035 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions/chat/completions "HTTP/1.1 404 Not Found"
+2026-01-29 04:32:31,968 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:33:04,277 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:33:44,775 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:34:09,300 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:36:05,385 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:38:16,079 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:39:02,765 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:39:02,765 - INFO - Retrying request to /chat/completions in 0.441001 seconds
+2026-01-29 04:39:03,805 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:39:03,806 - INFO - Retrying request to /chat/completions in 0.947992 seconds
+2026-01-29 04:39:05,335 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:39:33,358 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:39:33,359 - INFO - Retrying request to /chat/completions in 0.376711 seconds
+2026-01-29 04:39:34,340 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:39:34,341 - INFO - Retrying request to /chat/completions in 0.930176 seconds
+2026-01-29 04:39:35,848 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:07,015 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:07,016 - INFO - Retrying request to /chat/completions in 0.488668 seconds
+2026-01-29 04:40:08,101 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:08,102 - INFO - Retrying request to /chat/completions in 0.851983 seconds
+2026-01-29 04:40:09,542 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:27,355 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:27,355 - INFO - Retrying request to /chat/completions in 0.457562 seconds
+2026-01-29 04:40:29,242 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:40:29,243 - INFO - Retrying request to /chat/completions in 0.764738 seconds
+2026-01-29 04:40:32,059 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-01-29 04:41:43,356 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-01-29 04:42:07,360 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:43:53,621 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-01-29 04:43:56,289 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-01-29 04:44:00,629 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:44:30,638 - INFO - api_key: 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
+2026-01-29 04:44:30,638 - INFO - base_url: https://openrouter.ai/api/v1
+2026-01-29 04:44:31,934 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:45:19,705 - INFO - api_key: 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
+2026-01-29 04:45:19,705 - INFO - base_url: https://openrouter.ai/api/v1
+2026-01-29 04:45:21,721 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:45:27,339 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:45:34,831 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:48:07,467 - INFO - api_key: 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
+2026-01-29 04:48:07,467 - INFO - base_url: https://openrouter.ai/api/v1
+2026-01-29 04:48:09,783 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:48:14,565 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:48:21,253 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:50:22,979 - INFO - api_key: sk-BspoFZier25LMje1wkZlMw6v1Zd8BjleB309rtyznT9oLdRr
+2026-01-29 04:50:22,979 - INFO - base_url: https://poloai.top/v1
+2026-01-29 04:50:26,139 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:51:07,198 - INFO - api_key: sk-BspoFZier25LMje1wkZlMw6v1Zd8BjleB309rtyznT9oLdRr
+2026-01-29 04:51:07,198 - INFO - base_url: https://poloai.top/v1
+2026-01-29 04:51:10,566 - INFO - HTTP Request: POST https://poloai.top/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 04:57:06,965 - INFO - 
+LiteLLM completion() model= claude-sonnet-4-5-20250929; provider = anthropic
+2026-01-29 04:57:52,977 - INFO - 
+LiteLLM completion() model= claude-sonnet-4-5-20250929; provider = anthropic
+2026-01-29 04:57:56,425 - INFO - 执行工具: get_weather({'city': '北京', 'date': '30号'})
+2026-01-29 04:57:56,426 - INFO - 执行工具: get_temperature({'city': '北京', 'time': '下午2点'})
+2026-01-29 04:57:56,426 - INFO - 
+LiteLLM completion() model= claude-sonnet-4-5-20250929; provider = anthropic
+2026-01-29 04:58:03,564 - INFO - 执行工具: weather_report({'weather': '城市北京的天气是30号，可以出海打鱼', 'tempareture': '城市北京下午2点的气温是60度不要出门不然会被烤成人干', 'ai_conclusion': '根据查询结果，北京30号天气条件适宜出海打鱼，说明天气状况良好。但是下午2点的气温高达60度，属于极端高温天气，非常危险。建议：如果需要外出活动，务必避开下午2点等高温时段，选择清晨或傍晚时分；外出时做好防暑降温措施，及时补充水分；尽量减少户外活动时间，在室内开启空调降温。这种极端高温天气下，安全第一，请务必谨慎安排出行计划。'})
+2026-01-29 04:58:03,567 - INFO - 
+LiteLLM completion() model= claude-sonnet-4-5-20250929; provider = anthropic
+2026-01-29 05:06:11,979 - INFO - api_key: sk-BspoFZier25LMje1wkZlMw6v1Zd8BjleB309rtyznT9oLdRr
+2026-01-29 05:06:11,980 - INFO - base_url: https://poloai.top
+2026-01-29 05:06:12,684 - INFO - HTTP Request: POST https://poloai.top/chat/completions "HTTP/1.1 405 Not Allowed"
